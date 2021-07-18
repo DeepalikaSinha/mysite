@@ -1,0 +1,68 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #FFEACA;
+}
+
+h1 {
+  margin-top: 0px;
+  font-family: 'Pacifico', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+font-family: 'Uchen', serif;
+}
+hr{
+  background-color: #faebd7;
+    height: 0px;
+    width: 10%;
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: grey;
+}
+
+.top-container {
+  color: #835151;
+  background-color: #FFEACA;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color:#FFEACA ;
+
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.subtitle {
+  font-family: 'Indie Flower', cursive;
+}
+.comp{
+  text-decoration: underline;
+
+}
+.skill-1-img{
+  height:100px;
+  width:100px;
+}
+.skill-2-img{
+  height:100px;
+  width:100px;
+}
+.engineer-img{
+  height:300px;
+  width:300px;
+}
